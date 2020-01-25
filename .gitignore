@@ -106,4 +106,4 @@ dist
 # jesuscirino
 .pnp.js
 .yarn/
-config.json
+./config.json
