@@ -1,0 +1,27 @@
+{
+  "name": "ivana",
+  "version": "1.0.0",
+  "description": "Interfaz virtual de administración no asistida",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesuscirino/ivana.git"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "bot"
+  ],
+  "author": "jesuscirino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesuscirino/ivana/issues"
+  },
+  "homepage": "https://github.com/jesuscirino/ivana#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
