@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const config = require("./config.json");
 const client = new Discord.Client();
 
 client.once("ready", () => {
@@ -6,8 +7,8 @@ client.once("ready", () => {
 });
 
 client.on("message", message => {
-  if (message.content === "!ping") {
-    message.channel.send("Pong.");
+  if (message.content === "!ivana") {
+    message.channel.send("mi sitio: https://github.com/jesuscirino/ivana/");
   }
 });
 

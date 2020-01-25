@@ -106,3 +106,4 @@ dist
 # jesuscirino
 .pnp.js
 .yarn/
+config.js
